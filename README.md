@@ -44,7 +44,8 @@ Each tool has its own guide that includes:
 
 ### Detection & SIEM
 - Sysmon  
-- Wazuh  
+- Wazuh
+- Auditd 
 
 ### Network Analysis
 - Wireshark  
